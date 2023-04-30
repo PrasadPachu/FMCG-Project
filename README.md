@@ -3,16 +3,26 @@ FMCG (Fast-moving consumer goods)
 
 This Project Focus on Sales data.
 And need to create some KPI Like
+
  -Total Sales
- -Store Wise Sales
- -Sales Growth 
- -Daily Sales Trend
- -Brand Wise Sales
- -AM wise Sales 
- -Sales Vs Budget*
- -Model Wise Sales 
- -Sales Comparison
- -Product Wise Sales 
+
+-Store Wise Sales
+
+-Sales Growth 
+
+-Daily Sales Trend
+
+-Brand Wise Sales
+
+-AM wise Sales 
+
+-Sales Vs Budget*
+
+-Model Wise Sales 
+
+-Sales Comparison
+
+-Product Wise Sales 
 
 
 
